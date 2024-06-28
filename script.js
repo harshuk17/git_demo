@@ -13,6 +13,8 @@ let x;
 x = 6;
 let y;
 y=5;
+let z;
+z=9;
 document.getElementById("demo").innerHTML = x;
 </script>
 
