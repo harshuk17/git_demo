@@ -1,0 +1,10 @@
+.demo-box {
+    background-color: #f0f8ff;  /* Light blue background */
+    border-radius: 10px;         /* Rounded corners */
+    padding: 20px;              /* Inner padding */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    width: 250px;  
+    width: 200px;             /* Optional width */
+  }
+  
+  
