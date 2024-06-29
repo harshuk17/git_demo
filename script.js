@@ -15,6 +15,8 @@ let y;
 y=5;
 let z;
 z=9;
+let v;
+v=0;
 document.getElementById("demo").innerHTML = x;
 </script>
 
